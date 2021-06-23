@@ -1,0 +1,92 @@
+<tr>
+  <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios1' value='105'   ></div></td>
+	 <td>Afeitado Barba - Premium</td>
+	 <td><center>45 min</center></td>
+	 <td><center>$ 240.00</center> </td>
+</tr><tr>
+	  <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios2' value='110'   ></div></td>
+	  <td>Afeitado Barba - Royal</td>
+          <td><center>30 min</center></td>
+          <td><center>$ 290.00</center> </td>
+</tr><tr>
+	 <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios3' value='104'   ></div></td>
+         <td>Afeitado Cabeza - Premium</td>
+         <td><center>45 min</center></td>
+	  <td><center>$ 290.00</center> </td>	
+</tr><tr>
+ <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios4' value='109'   ></div></td>
+         <td>Afeitado Cabeza - Royal</td>
+	 <td><center>60 min</center></td>
+	 <td><center>$ 330.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios5' value='100'   ></div></td>
+	 <td>Corte Cabello - Premium</td>
+	 <td><center>45 min</center></td>
+	 <td><center>$ 290.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios6' value='106'   ></div></td>
+	 <td>Corte Cabello - Royal</td>
+	<td><center>60 min</center></td>
+	  <td><center>$ 330.00</center> </td>
+</tr><tr>
+         <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios7' value='101'   ></div></td>
+	 <td>Corte Cabello JR - Premium</td>
+	 <td><center>0 min</center></td>
+	 <td><center>$ 190.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios8' value='108'   ></div></td>
+	 <td>Corte y Delinado de Bigote - Royal</td>
+	 <td><center>30 min</center></td>
+	<td><center>$ 120.00</center> </td>
+</tr><tr>
+	  <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios9' value='107'   ></div></td>
+	<td>Corte y Delineado Barba - Royal</td>
+	 <td><center>60 min</center></td>
+	<td><center>$ 290.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios10' value='102'   ></div></td>
+	<td>Corte y Delineado de Barba - Premium</td>
+	<td><center>45 min</center></td>
+	<td><center>$ 190.00</center> </td>
+</tr><tr>
+	 <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios11' value='103'   ></div></td>
+	<td>Corte y Delineado de Bigote - Premium</td>
+	<td><center>30 min</center></td>
+	<td><center>$ 100.00</center> </td>
+</tr><tr>
+	 <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios12' value='122'   ></div></td>
+	<td>Facial Exfoliante</td>
+	<td><center>15 min</center></td>
+	 <td><center>$ 120.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios13' value='125'   ></div></td>
+	 <td>Mascarilla de Arcilla</td>
+	 <td><center>60 min</center></td>
+	<td><center>$ 120.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios14' value='124'   ></div></td>
+	<td>Shampeeling</td>
+	 <td><center>60 min</center></td>
+	<td><center>$ 120.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios15' value='127'   ></div></td>
+	<td>Spa Royal de Cabello</td>
+	<td><center>60 min</center></td>
+	<td><center>$ 599.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios16' value='128'   ></div></td>
+	<td>Spa Royal de Cabello y Barba</td>
+	<td><center>60 min</center></td>
+	<td><center>$ 799.00</center> </td>
+</tr><tr>
+	<td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios17' value='123'   ></div></td>
+	<td>Teñido de Barba</td>
+	<td><center>15 min</center></td>
+	<td><center>$ 200.00</center> </td>
+</tr><tr>
+	 <td> <div class='radio'><input class='radiomodal' data-validate='validateServicio'  data-original-title='' title='' type='radio' name='servicio' id='optionsRadios18' value='126'   ></div></td>
+	<td>Tinte de cabello</td>
+	<td><center>60 min</center></td>
+        <td><center>$ 300.00</center> </td>
+</tr>
+</html>
